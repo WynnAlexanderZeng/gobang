@@ -6,7 +6,7 @@ and Xuan_shi_yi_fu_xiao_G6C10's classmates, this is my Children's Day gift!
 怎么玩呢？在电脑上按windows+R，输入cmd  
 然后输入 cd desktop  
 等待运行结束后，输入 git clone https://github.com/ch-wynn-zeng/gobang  
-等待运行结束，关掉窗口，看到桌面上有一个文件夹叫golang  
-将它打开，双击golang.exe，就可以玩了！  
+等待运行结束，关掉窗口，看到桌面上有一个文件夹叫gobang  
+将它打开，双击gobang文件夹，里面有一个golang.exe，双击就可以玩了！  
 祝你们六一儿童节快乐！  
 也希望你们一直记得我！  
